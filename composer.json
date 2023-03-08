@@ -1,0 +1,25 @@
+{
+    "name": "foo/traditional-simple",
+    "description": "This is a Traditional-simple test from `sqhlib/hanzi-convert`. fix dict.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "TraditionalSimple\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "traditional",
+            "email": "traditional@simple.cn"
+        }
+    ],
+    "minimum-stability": "RC",
+    "require": {},
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://mirrors.aliyun.com/composer/"
+        }
+    }
+}
