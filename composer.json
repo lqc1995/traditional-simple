@@ -1,7 +1,7 @@
 {
     "name": "foo/traditional-simple",
     "description": "This is a Traditional-simple test from `sqhlib/hanzi-convert`. fix dict.",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
