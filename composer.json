@@ -1,5 +1,5 @@
 {
-    "name": "foo/traditional-simple",
+    "name": "handsome/traditional-simple",
     "description": "This is a Traditional-simple test from `sqhlib/hanzi-convert`. fix dict.",
     "type": "library",
     "license": "MIT",
